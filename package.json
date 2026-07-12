@@ -1,0 +1,9 @@
+{
+  "name": "monad-pevm-state-checkpointing",
+  "version": "1.0.0",
+  "description": "Thread-isolated atomic memory checkpointing and snapshot harness for Monad EVM nodes",
+  "main": "testStateCheckpointing.js",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
